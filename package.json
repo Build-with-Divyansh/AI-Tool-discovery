@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "created": "2026-04-15T08:17:26.979Z",
+    "version": 1
+  },
+  "admin": {
+    "username": "admin",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LPVWo6166Tm"
+  },
+  "tools": [
+    {
+      "id": "t1",
+      "name": "ChatGPT",
+      "category": "Writing & Copy",
+      "icon": "💬",
+      "iconBg": "#1a2518",
+      "description": "OpenAI's flagship chatbot for writing, brainstorming, coding, and general-purpose AI assistance.",
+      "tags": [
+        "chatbot",
+        "content",
+        "brainstorm"
+      ],
+      "pricing": "freemium",
+      "rating": 4.8,
+      "url": "https://chat.openai.com",
+      "featured": true,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t2",
+      "name": "Claude",
+      "category": "Writing & Copy",
+      "icon": "✦",
+      "iconBg": "#181825",
+      "description": "Anthropic's AI known for nuanced reasoning, long documents, and thoughtful conversation.",
+      "tags": [
+        "writing",
+        "analysis",
+        "coding"
+      ],
+      "pricing": "freemium",
+      "rating": 4.8,
+      "url": "https://claude.ai",
+      "featured": true,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t3",
+      "name": "Midjourney",
+      "category": "Image Generation",
+      "icon": "🎨",
+      "iconBg": "#181828",
+      "description": "Industry-leading AI image generator producing stunning artistic visuals from text prompts.",
+      "tags": [
+        "art",
+        "design",
+        "prompts"
+      ],
+      "pricing": "paid",
+      "rating": 4.9,
+      "url": "https://midjourney.com",
+      "featured": true,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t4",
+      "name": "Cursor",
+      "category": "Coding & Dev",
+      "icon": "🖱️",
+      "iconBg": "#18182a",
+      "description": "AI-native code editor built on VS Code — chat with your codebase and apply edits instantly.",
+      "tags": [
+        "editor",
+        "refactor",
+        "chat"
+      ],
+      "pricing": "freemium",
+      "rating": 4.9,
+      "url": "https://cursor.sh",
+      "featured": true,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t5",
+      "name": "ElevenLabs",
+      "category": "Audio & Voice",
+      "icon": "🔊",
+      "iconBg": "#182828",
+      "description": "Ultra-realistic AI voice synthesis and cloning for narrating, dubbing, and building voice apps.",
+      "tags": [
+        "voice",
+        "TTS",
+        "cloning"
+      ],
+      "pricing": "freemium",
+      "rating": 4.8,
+      "url": "https://elevenlabs.io",
+      "featured": true,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t6",
+      "name": "Runway",
+      "category": "Video & Animation",
+      "icon": "🎬",
+      "iconBg": "#182828",
+      "description": "AI video editor with Gen-3 model for text-to-video, image-to-video, and inpainting.",
+      "tags": [
+        "text-to-video",
+        "editing",
+        "vfx"
+      ],
+      "pricing": "freemium",
+      "rating": 4.7,
+      "url": "https://runwayml.com",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t7",
+      "name": "Perplexity",
+      "category": "Research & Search",
+      "icon": "🔭",
+      "iconBg": "#18182a",
+      "description": "AI-powered answer engine that searches the web and cites its sources.",
+      "tags": [
+        "search",
+        "citations",
+        "web"
+      ],
+      "pricing": "freemium",
+      "rating": 4.7,
+      "url": "https://perplexity.ai",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t8",
+      "name": "Suno",
+      "category": "Audio & Voice",
+      "icon": "🎵",
+      "iconBg": "#281828",
+      "description": "Generate full songs with vocals, instruments, and lyrics from a text prompt in seconds.",
+      "tags": [
+        "music",
+        "lyrics",
+        "creative"
+      ],
+      "pricing": "freemium",
+      "rating": 4.7,
+      "url": "https://suno.ai",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t9",
+      "name": "Jasper",
+      "category": "Writing & Copy",
+      "icon": "✍️",
+      "iconBg": "#251820",
+      "description": "AI copywriting platform for marketing teams — blog posts, ads, and email campaigns.",
+      "tags": [
+        "marketing",
+        "blogs",
+        "ads"
+      ],
+      "pricing": "paid",
+      "rating": 4.5,
+      "url": "https://jasper.ai",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t10",
+      "name": "GitHub Copilot",
+      "category": "Coding & Dev",
+      "icon": "💻",
+      "iconBg": "#18202a",
+      "description": "AI pair programmer by GitHub that autocompletes code and writes functions inline.",
+      "tags": [
+        "autocomplete",
+        "IDE",
+        "developer"
+      ],
+      "pricing": "paid",
+      "rating": 4.7,
+      "url": "https://github.com/features/copilot",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t11",
+      "name": "DALL·E 3",
+      "category": "Image Generation",
+      "icon": "🖼️",
+      "iconBg": "#281e18",
+      "description": "OpenAI's image model — precise prompt following and photorealistic outputs.",
+      "tags": [
+        "photos",
+        "art",
+        "creative"
+      ],
+      "pricing": "freemium",
+      "rating": 4.6,
+      "url": "https://openai.com/dall-e-3",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    },
+    {
+      "id": "t12",
+      "name": "Canva AI",
+      "category": "Design & UI",
+      "icon": "🖌️",
+      "iconBg": "#281a1e",
+      "description": "Magic Design and text-to-image tools built into Canva for instant professional graphics.",
+      "tags": [
+        "graphics",
+        "social",
+        "presentations"
+      ],
+      "pricing": "freemium",
+      "rating": 4.6,
+      "url": "https://canva.com",
+      "featured": false,
+      "approved": true,
+      "clicks": 0,
+      "views": 0,
+      "submittedBy": "admin",
+      "createdAt": "2026-04-15T08:17:26.979Z",
+      "updatedAt": "2026-04-15T08:17:26.979Z"
+    }
+  ],
+  "submissions": [],
+  "pageviews": [],
+  "toolEvents": [],
+  "settings": {
+    "siteName": "ToolVault",
+    "siteTagline": "Find the perfect AI tool for any task",
+    "siteEmail": "hello@toolvault.io",
+    "adsenseId": "",
+    "featuredPrice": 29,
+    "sponsorPrice": 199,
+    "maintenanceMode": false,
+    "allowSubmissions": true
+  }
+}
